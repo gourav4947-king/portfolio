@@ -8,7 +8,7 @@ const person = {
   },
   role: "Ethical Hacker",
   avatar: "/images/avatar.jpg",
-  location: "Asia/India/Madhya Pradesh/Harda", // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
+  location: "Asia/India", // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
   languages: ["English", "Hindi"], // optional: Leave the array empty if you don't want to display languages
 };
 
