@@ -29,12 +29,12 @@ const social = [
   {
     name: "GitHub",
     icon: "github",
-    link: "https://github.com/",
+    link: "https://github.com/once-ui-system/nextjs-starter",
   },
   {
     name: "LinkedIn",
     icon: "linkedin",
-    link: "https://www.linkedin.com/",
+    link: "https://www.linkedin.com/company/once-ui/",
   },
   {
     name: "X",
@@ -52,7 +52,7 @@ const home = {
   label: "Home",
   title: `${person.name}'s Portfolio`,
   description: `Portfolio website showcasing my work as a ${person.role}`,
-  headline: <>Ethical Hacker and Cybersecurity Expert</>,
+  headline: <>Design engineer and builder</>,
   subline: (
     <>
       I'm Gourav, a design engineer at <InlineCode>FLY</InlineCode>, where I craft intuitive
@@ -92,8 +92,8 @@ const about = {
     title: "Work Experience",
     experiences: [
       {
-        company: "EC Council",
-        timeframe: "Present",
+        company: "FLY",
+        timeframe: "2022 - Present",
         role: "Ethical Hacker",
         achievements: [
           <>
@@ -117,7 +117,7 @@ const about = {
       },
       {
         company: "Creativ3",
-        timeframe: "offer",
+        timeframe: "2016-2022",
         role: "Lead Designer",
         achievements: [
           <>
@@ -138,7 +138,7 @@ const about = {
     title: "Studies",
     institutions: [
       {
-        name: "Polytechnic College Harda",
+        name: "University of Jakarta",
         description: <>Studied software engineering.</>,
       },
       {
